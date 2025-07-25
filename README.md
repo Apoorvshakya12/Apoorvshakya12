@@ -1,7 +1,7 @@
 # Hi, I'm Apoorv Shakya 👋
 
-**Computer Science Engineer (Batch 2025)** | **Machine Learning & AI Enthusiast**  
-Passionate about building intelligent solutions using **Python, Machine Learning, Deep Learning, and Computer Vision**.
+Computer Science Engineer | Data Science & AI/ML Enthusiast
+Focused on creating AI-driven solutions using Python, Machine Learning, Deep Learning, and Computer Vision.
 
 ---
 
