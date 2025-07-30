@@ -21,7 +21,7 @@ Focused on creating AI-driven solutions using Python, Machine Learning, Deep Lea
 - Pandas, NumPy, Matplotlib, Seaborn  
 
 **Tools & Platforms:**  
-- Git, GitHub, Jupyter Notebook, Google Colab, 
+- Git, GitHub, Jupyter Notebook, Google Colab, Kaggle, Power Bi 
 - VS Code, Linux, Bash  
 
 ---
